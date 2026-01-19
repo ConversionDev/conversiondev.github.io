@@ -110,3 +110,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+# 필수 설정 추가
+url: "https://conversiondev.github.io"
+baseurl: "" # 저장소 이름이 <username>.github.io 인 경우 비워둡니다.
+

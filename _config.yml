@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "ConversionDev"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "FastAPI, LLM, MSA, ESG, AI 시스템을 설계하고 구현하는 개발 기록"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

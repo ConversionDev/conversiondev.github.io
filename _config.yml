@@ -61,7 +61,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://kanggyeonggu.store"
+      url: "kanggyeonggu.store"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -113,4 +113,5 @@ tag_archive:
 # 필수 설정 추가
 url: "https://conversiondev.github.io"
 baseurl: "" # 저장소 이름이 <username>.github.io 인 경우 비워둡니다.
+locale: ko-KR
 

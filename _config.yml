@@ -2,7 +2,7 @@
 title: ConversionDev
 name: &name ConversionDev
 description: "FastAPI, LLM, MSA, ESG, AI 시스템 설계 및 구현 기록"
-url: "https://conversiondev.github.io"
+url: "https://blog.kanggyeonggu.store"
 baseurl: ""
 repository: "ConversionDev/conversiondev.github.io"
 teaser: "/assets/images/teaser.jpg" # 공유 시 나타나는 기본 이미지
